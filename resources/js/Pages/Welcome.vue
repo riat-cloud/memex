@@ -111,7 +111,7 @@ const animate = ref(true);
                 <div class="flex flex-col items-center sm:flex-row sm:items-start justify-center sm:justify-between">
                     <div class="flex flex-col justify-center items-center sm:items-start">
                         <h3 class="text-xl font-extralight">
-                            {{ $t("Discover the next trending meme") }}
+                            {{ $t("Have fun with memes") }}
                         </h3>
                         <h3>{{ $t("before everyone else!") }}</h3>
                         <div class="flex items-center mt-4 gap-4">
