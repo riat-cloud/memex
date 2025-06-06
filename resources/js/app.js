@@ -1,7 +1,8 @@
 /* eslint-disable import/order */
 import '../css/app.css';
-import './bootstrap';
 
+import './bootstrap'; 
+ 
 import { createApp, h } from 'vue';
 
 import { useWagmiAdapter } from '@/lib/wagmi.js';
